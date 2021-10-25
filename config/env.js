@@ -1,3 +1,3 @@
 export default {
-    links: process.env.links
+    links: https://nuxt-bio-2.vercel.app
 }
