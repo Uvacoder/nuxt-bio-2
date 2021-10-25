@@ -1,7 +1,7 @@
 export default {
     lang: 'en',
-    name: 'Bio | moso.io', // Change me
-    short_name: 'Bio | moso.io', // Change me
+    name: 'Me | https://nuxt-bio-2.vercel.app', 
+    short_name: 'Me | https://nuxt-bio-2.vercel.app', 
     start_url: '/',
     display: 'standalone'
 }
